@@ -1,0 +1,58 @@
+.popup__form{
+    display: block;
+    background-color: #fffefb;
+    padding: 20px;
+    border: 1px solid #1f1e1ed9;
+    position: fixed;
+    margin: 2em 2em;
+    max-width: 400px;
+}
+
+.popup__form {
+    padding: 30px;
+    width: 100%;
+}
+
+.popup__form label{
+    font-size: 2em;
+    display: block;
+}
+
+.popup__form input, .popup__form select, .popup__form textarea{
+    font-size: 1em;
+    margin: 5px 0px 0px 15px;
+}
+
+.popup__form select{
+    width: 84%;
+}
+
+.popup__form input{
+    padding: 5px;
+}
+
+.popup__form .buttons{
+    display: block;
+}
+
+.popup__form button{
+    background-color: #ffcdbf;
+    border: 1px solid #ffcdbf;
+    border-radius: 5px;
+    font-size: 1.25em;
+    padding: 10px 15px;
+    margin: 15px 15px 0px 0px;
+    cursor: pointer;
+}
+
+.popup__form button:hover{
+    background-color: lightcoral;
+    transition: 0.5s;
+}
+
+.popup__form button:disabled{
+    background: #dddddd;
+    border: 1px solid #dddddd;
+    color: darkgrey;
+    cursor: auto;
+}

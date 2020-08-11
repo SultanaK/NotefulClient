@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fresca&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+h2{
+  font-family: 'Pacifico', cursive;
+}
+
+body {
+  margin: 0;
+  background: #fffefb;
+  color: #1f1e1ed9;
+}
+
+main{
+  background: #998071;
+}
+
+a, h3, h4, label, button{
+  color: #1f1e1ed9;
+  font-family: 'Fresca', sans-serif;
+}
+
+p{
+  font-family: 'Roboto', sans-serif; 
+}
