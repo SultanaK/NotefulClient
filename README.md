@@ -1,5 +1,7 @@
 # Noteful 
 Noteful lets users manage and organize their notes, which are stored on an external server. 
+### Live link:
+https://noteful-client-liard.vercel.app/
 
 ## Motivation
 This was created to practice developing and thinking in React, including unit testing and tying the app to a backend server (see here: https://github.com/omaiyea/noteful-server)
